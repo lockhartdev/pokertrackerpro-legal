@@ -1,8 +1,8 @@
-# Privacy Policy for DonkeyTracker
+# Privacy Policy for PokerTrackerPro
 
-Last updated: 13 April 2026
+Last updated: 3 May 2026
 
-DonkeyTracker ("the app") is a personal poker session tracking application. This policy explains how the app handles your information.
+PokerTrackerPro ("the app") is a personal poker session tracking application. This policy explains how the app handles your information.
 
 ## Information We Collect
 
@@ -34,4 +34,4 @@ We may update this policy. Any changes will be reflected in this document with a
 
 ## Contact
 
-For questions about this policy, contact: jlocdev1@gmail.com
+For questions about this policy, contact: jlockdev1@gmail.com
